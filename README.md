@@ -93,8 +93,8 @@ This batch script is designed to clean a drive by deleting specific types of fil
 
 ## Important Notes
 
-- **Security**: Be cautious when running scripts that modify file attributes and delete files. Ensure you have backups.
-- **Scope**: This script operates in the current directory and its subdirectories.
+- **Security**: Be cautious when running scripts that modify file attributes and delete files.
+- **Scope**: This script operates in the current directory.
 - **Confirmation Prompts**: The script pauses and waits for user input at several points to ensure you can monitor its progress.
 
 ## Disclaimer
