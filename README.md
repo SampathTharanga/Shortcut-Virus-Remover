@@ -17,7 +17,7 @@ This batch script is designed to clean a drive by deleting specific types of fil
 - A Windows operating system.
 - Basic understanding of running batch scripts.
 
-### Steps
+### Steps to Run the Script
 
 1. **Download the Script**:
     - Clone the repository or download the script file.
@@ -33,8 +33,30 @@ This batch script is designed to clean a drive by deleting specific types of fil
     - Execute the script by typing the filename.
 
     ```sh
-    drive_cleaner.bat
+    virus_hacker.bat
     ```
+
+### Running the Script in Detail
+
+1. **Open Command Prompt**:
+    - Press `Win + R`, type `cmd`, and press `Enter`.
+    
+2. **Navigate to the Script Directory**:
+    - Use the `cd` command to change to the directory where the script is located. For example, if the script is in `C:\Users\YourName\Downloads\drive-cleaner`, you would type:
+
+    ```sh
+    cd C:\Users\YourName\Downloads\drive-cleaner
+    ```
+
+3. **Execute the Script**:
+    - Once in the correct directory, type the name of the script to run it:
+
+    ```sh
+    virus_hacker.bat
+    ```
+
+4. **Follow the Prompts**:
+    - The script will display messages and prompt you to press a key to continue at certain points. Follow these prompts to proceed with the cleaning and recovery operations.
 
 ### Script Breakdown
 
@@ -100,10 +122,6 @@ This batch script is designed to clean a drive by deleting specific types of fil
 ## Disclaimer
 
 Use this script at your own risk. The author is not responsible for any data loss or damage that may occur.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
